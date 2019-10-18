@@ -1,0 +1,8 @@
+{
+    "name": "un-ocha/php-hid-example",
+    "description": "Example of an HID client integration written in PHP",
+    "type": "project",
+    "require": {
+        "league/oauth2-client": "^2.4"
+    }
+}
